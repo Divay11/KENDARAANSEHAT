@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "908287668476",
+    "project_id": "kendaraan-sehat",
+    "storage_bucket": "kendaraan-sehat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908287668476:android:e77f816a655ca8bad42779",
+        "android_client_info": {
+          "package_name": "com.example.kendaraansehat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908287668476-jqtl19vninb221najf0m75l4a5bc5joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2fXSM__McJf4lBooTnCQ6xi2l1Efs_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908287668476-jqtl19vninb221najf0m75l4a5bc5joi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908287668476-8smaqa0pma3nj8e309sr0oqi7rh19kdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kendaraansehat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908287668476:android:cfcf4dcc75254446d42779",
+        "android_client_info": {
+          "package_name": "com.example.kendaraansehat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908287668476-jqtl19vninb221najf0m75l4a5bc5joi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2fXSM__McJf4lBooTnCQ6xi2l1Efs_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908287668476-jqtl19vninb221najf0m75l4a5bc5joi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908287668476-8smaqa0pma3nj8e309sr0oqi7rh19kdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kendaraansehat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
