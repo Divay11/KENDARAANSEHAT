@@ -2,7 +2,7 @@
 ```
 KENDARAAN SEHAT
 
-**Kendaraan Sehat** adalah aplikasi berbasis **Flutter** yang terintegrasi dengan **Firebase** untuk membantu pengguna mengelola dan memantau jadwal serta informasi kendaraan secara digital, aman, dan mudah diakses.
+**KENDARAAN SEHAT** adalah aplikasi berbasis **Flutter** yang terintegrasi dengan **Firebase** untuk membantu pengguna mengelola dan memantau jadwal serta informasi kendaraan secara digital, aman, dan mudah diakses.
 
 Aplikasi ini dikembangkan sebagai proyek pembelajaran dengan penerapan autentikasi pengguna dan penyimpanan data berbasis cloud.
 
@@ -17,7 +17,7 @@ Fitur Utama
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+ Teknologi yang Digunakan
 - Flutter (Dart)
 - Firebase Authentication
 - Cloud Firestore
@@ -74,28 +74,21 @@ flutter run
 
 ```
 
-> ⚠️ Pastikan file konfigurasi Firebase (`google-services.json` dan `firebase_options.dart`) sudah disiapkan secara lokal dan **tidak diunggah ke repository**.
+ Pastikan file konfigurasi Firebase (`google-services.json` dan `firebase_options.dart`) sudah disiapkan secara lokal dan **tidak diunggah ke repository**.
 
 ---
 
-## 📦 Release
+##  Release
 Versi aplikasi yang stabil tersedia pada menu **Releases** di repository ini.  
 Setiap release menandai versi aplikasi yang telah diuji.
 
 ---
 
-## 👨‍💻 Pengembang
-**Divay Imam Syuhada**  
+##  Pengembang
+**Divay Imam Syuhada**
+**Shafda Afrianda**
+**Kevin Swandana**  
 Universitas Sumatera Utara  
 
----
-
-## 📄 Lisensi
-Project ini dibuat untuk keperluan **pembelajaran dan pengembangan akademik**.
-
----
 
 ⭐ Jika project ini bermanfaat, silakan beri **star** pada repository ini di GitHub.
-```
-
----
