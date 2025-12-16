@@ -1,16 +1,101 @@
-# kendaraansehat
 
-A new Flutter project.
+```
+KENDARAAN SEHAT
 
-## Getting Started
+**Kendaraan Sehat** adalah aplikasi berbasis **Flutter** yang terintegrasi dengan **Firebase** untuk membantu pengguna mengelola dan memantau jadwal serta informasi kendaraan secara digital, aman, dan mudah diakses.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini dikembangkan sebagai proyek pembelajaran dengan penerapan autentikasi pengguna dan penyimpanan data berbasis cloud.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Fitur Utama
+- 🔐 Autentikasi pengguna menggunakan Firebase Authentication  
+- ☁️ Penyimpanan dan manajemen data menggunakan Cloud Firestore  
+- 🗓️ Pengelolaan jadwal kendaraan  
+- 👤 Akun pengguna personal  
+- 📱 Antarmuka modern dan responsif berbasis Flutter  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Teknologi yang Digunakan
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
+- Provider (State Management)
+- Git & GitHub
+
+---
+
+Struktur Project
+```
+
+kendaraansehat/
+│── lib/
+│   ├── screens/
+│   ├── providers/
+│   ├── widgets/
+│   └── main.dart
+│
+│── android/
+│── ios/
+│── pubspec.yaml
+│── README.md
+
+```
+
+---
+
+Cara Menjalankan Aplikasi
+1. Clone repository:
+```
+
+git clone [https://github.com/Divay11/KENDARAANSEHAT.git](https://github.com/Divay11/KENDARAANSEHAT.git)
+
+```
+
+2. Masuk ke folder project:
+```
+
+cd kendaraansehat
+
+```
+
+3. Install dependency:
+```
+
+flutter pub get
+
+```
+
+4. Jalankan aplikasi:
+```
+
+flutter run
+
+```
+
+> ⚠️ Pastikan file konfigurasi Firebase (`google-services.json` dan `firebase_options.dart`) sudah disiapkan secara lokal dan **tidak diunggah ke repository**.
+
+---
+
+## 📦 Release
+Versi aplikasi yang stabil tersedia pada menu **Releases** di repository ini.  
+Setiap release menandai versi aplikasi yang telah diuji.
+
+---
+
+## 👨‍💻 Pengembang
+**Divay Imam Syuhada**  
+Universitas Sumatera Utara  
+
+---
+
+## 📄 Lisensi
+Project ini dibuat untuk keperluan **pembelajaran dan pengembangan akademik**.
+
+---
+
+⭐ Jika project ini bermanfaat, silakan beri **star** pada repository ini di GitHub.
+```
+
+---
